@@ -4,6 +4,6 @@
  //get the length of array
 
  console.log(student)
-for(i = 0;i<student.length;i+=1)
+for(i = 0;i<student.length;i++43)
 	
 	console.log(student[i])
